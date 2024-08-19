@@ -1,6 +1,3 @@
-
-#!/bin/bash
-
 clear
 apt update
 apt upgrade
