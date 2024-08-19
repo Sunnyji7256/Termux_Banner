@@ -1,4 +1,4 @@
-clear
+clear .
 apt update
 apt upgrade
 apt install figlet -y
