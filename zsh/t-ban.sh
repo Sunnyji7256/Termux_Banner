@@ -1,11 +1,3 @@
-#!/bin/bash
-#
-#
-# Termux Banner
-# Banner by Sutariya Parixit (8h4i)
-# _____Do Not Copy Or Modify_____
-#
-#
 clear
 figlet -f big Termux Banner | lolcat
 cyan='\e[0;36m'
