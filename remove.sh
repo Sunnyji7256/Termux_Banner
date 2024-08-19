@@ -1,4 +1,3 @@
-.
 folder_remove() {
 cd $HOME
 if [[ -e Termux-Banner ]]
