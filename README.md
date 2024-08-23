@@ -14,7 +14,13 @@ paste below command in termux for install termux banner.
 <pre>
   pkg install python -y 
   pkg install git
-  git clone 
+  git clone https://github.com/Sunnyji7256/Termux_Banner.git
+  ls
+  cd termux_banner
+  ls
+  bash requirement.sh
+  ls
+  
 </pre>
 
 ## How to Remove ? :
