@@ -12,7 +12,9 @@
 
 paste below command in termux for install termux banner.
 <pre>
-  pkg install python -y && pip install termux-banner && banner
+  pkg install python -y 
+  pkg install git
+  git clone 
 </pre>
 
 ## How to Remove ? :
