@@ -1,4 +1,3 @@
-
 clear
 figlet -f big Termux Banner | lolcat
 cyan='[0;36m'
